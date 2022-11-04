@@ -4,7 +4,7 @@
 Hi, I'm Bruno.
 @@ frontend developer at tembici @@
 + Living in Maringá, Brazil 🇧🇷.
-- 21 years old
+- 22 years old
 # 📖 frontend development, functional programming student
 ```
 
